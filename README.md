@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @masapico
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning statistics and pandas
-- 💞️ I often play Apex Legends and Fortnite.
+- 🌱 I’m happy.
