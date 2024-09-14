@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @masapico
-- 🌱 I’m happy.
+- 🌱 I love computing as a weekend developer
