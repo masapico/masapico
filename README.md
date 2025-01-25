@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @masapico
-- 🌱 I love computing as a weekend developer
+- ❤️ I frequently use React, TypeScript, PocketBase, and Python.
